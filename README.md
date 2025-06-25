@@ -9,7 +9,7 @@ Sales Data.csv
 - 185686 rows, 10 columns
 
 ## Tools
-- SQL - Data Cleaning and Data Analysis
+- MySQL - Data Cleaning and Data Analysis
 - Power BI - Creating reports
 
 ## Data Cleaning/Preparation
@@ -29,6 +29,9 @@ EDA involved exploring the sales data to answer key questions:
 
 ## Results/Findings
 ![sales_data_dashboard](https://github.com/user-attachments/assets/5818231b-ce66-417f-bd0e-8d0d7a03feee)
+
+The dashboard can be viewed [here](https://app.powerbi.com/reportEmbed?reportId=9990906d-8bf3-4dc6-8f0a-aabbeb2f8427&autoAuth=true&ctid=6c1d4152-39d0-44ca-88d9-b8d6ddca0708)
+
 The analysis results are summarized as follows:
 - The best month for sales is in December and the total earnings in December is 4.6M. Besides, we can see a rising trend around April and December, which can be due to some festivals.
 - San Francisco sold the most product among all cities with 50.17K products sold.
